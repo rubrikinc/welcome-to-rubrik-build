@@ -1,6 +1,6 @@
 ---
 name: Enhancement Request
-about: Suggest an enhancement to the CloudFormation template.
+about: Suggest an enhancement to 
 title: ''
 labels: kind-enhancement
 assignees: ''
@@ -12,3 +12,5 @@ assignees: ''
 **What would you like to be added**:
 
 **Why is this needed**:
+
+**Additional context**
