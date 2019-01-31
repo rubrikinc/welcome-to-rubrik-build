@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug encountered while using the CloudFormation template.
+about: Report a bug encountered while using XYZ
 title: ''
 labels: kind-bug
 assignees: ''
