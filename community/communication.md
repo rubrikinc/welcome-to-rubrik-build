@@ -26,12 +26,10 @@ If you think you found a bug or would like to request an enhancement, please [fi
 
 ## Conferences
 
-Kubernetes is the main focus of KubeCon + CloudNativeCon, held every spring in Europe, summer in China, and winter in North America. Information about these and other community events is available on the CNCF [events] pages.
-
 Build community admins and members are often at conference. Information about events can be found on the Rubrik Build [homepage].
 
-[Twitter](https://twitter.com/RoxieAtRubrik)
-[Blog](https://www.rubrik.com/blog/tag/build/)
-[YouTube]()
-[homepage](https://build.rubrik.com)
-[file an issue]()
+[Twitter]: https://twitter.com/RoxieAtRubrik
+[Blog]: https://www.rubrik.com/blog/tag/build/
+[YouTube]: 
+[homepage]: https://build.rubrik.com
+[file an issue]: 
