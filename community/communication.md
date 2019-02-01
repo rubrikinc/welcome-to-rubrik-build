@@ -10,7 +10,7 @@ The Build community abides by the [Contributor Convenant](https://github.com/rub
 * [Blog]
 * [YouTube]
 
-## Mailing lists
+## Mailing Lists
 
 |TBD|
 |-|
