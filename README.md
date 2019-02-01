@@ -31,9 +31,9 @@ Projects will often have a set of "help wanted" issues that can help new contrib
 
 The [Contributor Guide](contributors/guide/README.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
 
-1. How to [file an issue](https://help.github.com/articles/creating-an-issue/)
-1. How to [find something to work on](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/contributors/guide/tags.md)
-1. How to [open a pull request](https://help.github.com/articles/creating-a-pull-request/)
+1. How to [file an issue](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/contributors/guide/issue-handling.md)
+1. How to [find something to work on](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/contributors/guide/labels.md)
+1. How to [open a pull request](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/contributors/guide/submitting-pull-requests.md)
 
 ## Membership
 
