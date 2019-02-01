@@ -33,4 +33,4 @@ The high level workflow for Issue handling is as follows:
 
 ## Issue Submission Template
 
-Each repository will contain files in the `.github` folder for `Bug Report` and `Enhancement Request` templates. This is a special folder that will insert a form, written in markdown, into the start of a new issue. The user submitting the issue then follows the form to ensure all necessary information has been gathered for review of the issue.
+Each repository will contain files in the `.github` folder for [`Bug Report`](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/.github/ISSUE_TEMPLATE/bug-report.md) and [`Enhancement Request`](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/.github/ISSUE_TEMPLATE/enhancement-request.md) templates. This is a special folder that will insert a form, written in markdown, into the start of a new issue. The user submitting the issue then follows the form to ensure all necessary information has been gathered for review of the issue.
