@@ -1,4 +1,4 @@
-# Community membership
+# Community Membership
 
 | **Note:** This document is in progress |
 |-------|
