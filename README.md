@@ -27,7 +27,7 @@ Links in [Learning Resources](/contributors/learn/README.md) lead to many releva
 
 A first step to contributing is to pick an existing project or to submit an idea for a new project.
 
-Projects will often have a set of "help wanted" issues that can help new contributors get involved.
+Projects will often have issues, which can be either a bug fix or enhancement request, that are labeled as `first-timer` or `exp-beginner` that can help new contributors get involved.
 
 The [Contributor Guide](contributors/guide/README.md) provides detailed instruction on how to get your ideas and bug fixes seen and accepted, including:
 
