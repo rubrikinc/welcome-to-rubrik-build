@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug encountered while using ''
+about: Report a bug encountered while using <>
 title: ''
 labels: kind-bug
 assignees: ''
