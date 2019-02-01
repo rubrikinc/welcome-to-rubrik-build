@@ -39,4 +39,4 @@ The [Contributor Guide](contributors/guide/README.md) provides detailed instruct
 
 We encourage all contributors to become members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn more about requirements and responsibilities of membership in our [Community Membership](https://github.com/rubrikinc/welcome-to-rubrik-build/tree/master/community) page.
 
-All contributors are expected to abide by the [Code of Conduct](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/Code-of-Conduct.md)
+All contributors are expected to abide by the [Code of Conduct](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/Code-of-Conduct.md).
