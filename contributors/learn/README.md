@@ -1,2 +1,9 @@
-|In progress|
-|--|
+# Learning Resources
+
+## Python
+
+[MITx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-0)
+
+## Go
+
+[The Go Programming Language (Addison-Wesley Professional Computing Series)](https://smile.amazon.com/gp/product/0134190440/ref=oh_aui_search_asin_title?ie=UTF8&psc=1)
