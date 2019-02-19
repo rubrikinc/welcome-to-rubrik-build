@@ -7,7 +7,7 @@ To learn more about the project structure and organization, please refer to Proj
 
 ## Communicating
 
-The [communication](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/community/communication.md) page lists communication channels like chat, issues, mailing lists, conferences, etc.
+The [communication](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/community/) page lists communication channels like chat, issues, mailing lists, conferences, etc.
 
 ## Project Types
 
