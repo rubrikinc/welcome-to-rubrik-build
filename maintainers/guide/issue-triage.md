@@ -30,14 +30,14 @@ We use GitHub issue labels for prioritization. The absence of a priority label m
 
 We try to apply these priority labels consistently across the entire project, but if you notice an issue that you believe to be incorrectly prioritized, please do let us know and we will evaluate your counter-proposal.
 
-- **priority/p0**: Must be actively worked on as someone's top priority right now. Stuff is burning. If it's not being actively worked on, someone is expected to drop what they're doing immediately to work on it. Owners are responsible for making sure that all the issues, labeled with this priority, in their area are being actively worked on. Examples include
+- `**priority/p0**`: Must be actively worked on as someone's top priority right now. Stuff is burning. If it's not being actively worked on, someone is expected to drop what they're doing immediately to work on it. Owners are responsible for making sure that all the issues, labeled with this priority, in their area are being actively worked on. Examples include
 user-visible bugs in core features, broken builds or tests and critical security issues.
 
-- **priority/p1**: Must be staffed and worked on either currently, or very soon, ideally in time for the next release.
+- `**priority/p1**`: Must be staffed and worked on either currently, or very soon, ideally in time for the next release.
 
-- **priority/p2**: Important over the long term, but may not be currently staffed and/or may require multiple releases to complete.
+- `**priority/p2**`: Important over the long term, but may not be currently staffed and/or may require multiple releases to complete.
 
-- **priority/p3**: There appears to be general agreement that this would be good to have, but we may not have anyone available to work on it right now or in the immediate future. Community contributions would be most welcome in the mean time (although it might take a while to get them reviewed if reviewers are fully occupied with higher priority issues, for example immediately before a release).
+- `**priority/p3**`: There appears to be general agreement that this would be good to have, but we may not have anyone available to work on it right now or in the immediate future. Community contributions would be most welcome in the mean time (although it might take a while to get them reviewed if reviewers are fully occupied with higher priority issues, for example immediately before a release).
 
 ## Set Ownership
 
