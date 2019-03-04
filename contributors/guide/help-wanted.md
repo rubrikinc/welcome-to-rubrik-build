@@ -1,4 +1,4 @@
-# Overview
+# Help Wanted
 
 We use two labels [help wanted](#help-wanted) and [good first
 issue](#good-first-issue) to identify issues that have been specially groomed
