@@ -2,7 +2,7 @@
 
 Issues are used to keep track of bugs, enhancements, questions, documentation, or other requests. Any GitHub user can create an issue in a public repository where issues aren’t disabled.
 
-|**NOTE:** See [documentation](https://help.github.com/articles/creating-an-issue/) for how to create an issue.|
+|**NOTE:** See [the GitHub documentation](https://help.github.com/articles/creating-an-issue/) for how to create an issue.|
 |---|
 
 ## Overview
@@ -16,7 +16,7 @@ The high level workflow for Issue handling is as follows:
 2. **Review:** The project maintainers and any linked Bots inspect the Issue to provide labels.
 
     * The issue is assigned a Priority level.
-    * The issue is optionally assigned any other labels needed to describe and categorize the issue. For more information, see the Labels section.
+    * The issue is optionally assigned any other labels needed to describe and categorize the issue. For more information, see the [Labels section](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/contributors/guide/labels.md).
     
 3. **Discuss:** Project maintainers respond with any needed information to address gaps in the Issue.
 
