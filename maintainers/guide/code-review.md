@@ -1,47 +1,34 @@
-## Code Review using OWNERS files
+# Code Reviews
 
-This is a simplified description of our [full PR testing and merge
-workflow](/contributors/guide/pull-requests.md#the-testing-and-merge-workflow)
-that conveniently forgets about the existence of tests, to focus solely on the roles driven by
-OWNERS files.  Please see [below](#automation-using-owners-files) for details on how specific
-aspects of this process may be configured on a per-repo basis.
+All changes must be code reviewed. For non-maintainers this is obvious, since you can't commit anyway. But even for maintainers, all code changes should receive at least one review, preferably (for non-trivial changes obligatorily) from someone who knows the areas the change touches.
 
-### The Code Review Process
+For non-trivial changes, multiple reviewers may be assigned. The primary reviewer will make this decision and nominate a second reviewer, if needed. If a maintainer intends to be the primary reviewer of a PR they should set themselves as the assignee on GitHub, then reply to the PR and specify so. However, only the primary reviewer of a change should conduct the merge, except in rare cases.
+
+If a PR has gone 2 work days without an owner emerging, please poke the PR thread and ask for a reviewer to be assigned.
+
+Except for rare cases, such as trivial changes (e.g. typos, comments) or emergencies (e.g. broken builds), maintainers should not merge their own changes.
+
+Expect reviewers to request that you follow the PR template.
+
+## Assigning Reviews
+
+Maintainers can assign reviews to other maintainers, when appropriate. The assignee manages that PR and is responsible for merging or closing the PR once ready. The assignee may request reviews from non-maintainers.
+
+## The Code Review Process
 
 - The **author** submits a PR
-- Phase 0: Automation suggests **reviewers** and **approvers** for the PR
-  - Determine the set of OWNERS files nearest to the code being changed
-  - Choose at least two suggested **reviewers**, trying to find a unique reviewer for every leaf
-    OWNERS file, and request their reviews on the PR
-  - Choose suggested **approvers**, one from each OWNERS file, and list them in a comment on the PR
+- Phase 0: Select **reviewers** and **approvers** for the PR
+  - Choose at least two suggested **reviewers** and request their reviews on the PR
+  - Choose suggested **approvers**, based on project maintainers, and list them in a comment on the PR
 - Phase 1: Humans review the PR
   - **Reviewers** look for general code quality, correctness, sane software engineering, style, etc.
-  - Anyone in the organization can act as a **reviewer** with the exception of the individual who
-    opened the PR
-  - If the code changes look good to them, a **reviewer** types `/lgtm` in a PR comment or review;
-    if they change their mind, they `/lgtm cancel`
-  - Once a **reviewer** has `/lgtm`'ed, [prow](https://prow.k8s.io)
-    ([@k8s-ci-robot](https://github.com/k8s-ci-robot/)) applies an `lgtm` label to the PR
+  - Anyone in the organization can act as a **reviewer** with the _exception_ of the individual who opened the PR
+  - If the code changes look good to them, a **reviewer** types :shipit: in a PR comment or review if they change their mind.
+  - Once a **reviewer** has :shipit:, apply an `status/4-merge` label to the PR
 - Phase 2: Humans approve the PR
-  - The PR **author** `/assign`'s all suggested **approvers** to the PR, and optionally notifies
-    them (eg: "pinging @foo for approval")
-  - Only people listed in the relevant OWNERS files, either directly or through an alias, as [described
-    above](#owners_aliases), can act as **approvers**, including the individual who opened the PR.
-  - **Approvers** look for holistic acceptance criteria, including dependencies with other features,
-    forwards/backwards compatibility, API and flag definitions, etc
-  - If the code changes look good to them, an **approver** types `/approve` in a PR comment or
-    review; if they change their mind, they `/approve cancel`
-  - [prow](https://prow.k8s.io) ([@k8s-ci-robot](https://github.com/k8s-ci-robot/)) updates its
-    comment in the PR to indicate which **approvers** still need to approve
-  - Once all **approvers** (one from each of the previously identified OWNERS files) have approved,
-    [prow](https://prow.k8s.io) ([@k8s-ci-robot](https://github.com/k8s-ci-robot/)) applies an
-    `approved` label
-- Phase 3: Automation merges the PR:
-  - If all of the following are true:
-    - All required labels are present (eg: `lgtm`, `approved`)
-    - Any blocking labels are missing (eg: there is no `do-not-merge/hold`, `needs-rebase`)
-  - And if any of the following are true:
-    - there are no presubmit prow jobs configured for this repo
-    - there are presubmit prow jobs configured for this repo, and they all pass after automatically
-      being re-run one last time
-  - Then the PR will automatically be merged
+  - The PR **author** `/assign`'s all suggested **approvers** to the PR, and optionally notifies them
+  - Only people listed as owners or maintainers can act as **approvers**, including the individual who opened the PR.
+  - **Approvers** look for holistic acceptance criteria, including dependencies with other features, forwards/backwards compatibility, API and flag definitions, etc
+  - If the code changes look good to them, an **approver** types `approve` in a PR comment or review; if they change their mind, they `/approve cancel` and updates its comment in the PR to indicate which **approvers** still need to approve
+- Phase 3: Merge the PR:
+  - Then the PR can be merged by a project maintainer and any associated branches deleted
