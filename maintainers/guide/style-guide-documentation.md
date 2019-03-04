@@ -4,8 +4,7 @@ title: Documentation Style Guide
 
 # Documentation Style Guide
 
-This style guide is for content in the Kubernetes github [community repository].
-It is an extension of the [Kubernetes documentation style-guide].
+This style guide is for content in the GitHub account for Rubrik Build (rubrikinc).
 
 These are **guidelines**, not rules. Use your best judgement.
 
@@ -652,27 +651,4 @@ relative links. However, how and what they're being linked to can vary widely.
 
 ## Attribution
 
-This style guide is heavily influenced by the great work from the content
-management teams from [SIG-Docs], [Gitlab], [Google], and [Microsoft]. Without
-their previous efforts this guide would not be nearly as concise as it should.
-
-[community repository]: https://git.k8s.io/community
-[Kubernetes documentation style-guide]: https://kubernetes.io/docs/contribute/style/style-guide/
-[SIG Google groups]: /sig-list.md
-[ISO 8601]: https://en.wikipedia.org/wiki/ISO_8601
-[kubernetes icon set]: /icons
-[API naming convention]: /contributors/devel/api-conventions.md#naming-conventions
-[singular-they]: https://en.wikipedia.org/wiki/Singular_they
-[Microsoft's guide to bias-free communication]: https://docs.microsoft.com/en-us/style-guide/bias-free-communication
-[Wikipedia's entry for the Singular they]: https://en.wikipedia.org/wiki/Singular_they
-[Latin phrases]: https://en.wikipedia.org/wiki/List_of_Latin_abbreviations
-[Oxford comma]: https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/
-[gh-code-hl-list]: https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
-[hugo-code-hl-list]: http://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/
-[git-mv]: https://git-scm.com/docs/git-mv
-[jekyll]: https://jekyllrb.com/
-[hugo]: https://gohugo.io/
-[gitlab]: https://docs.gitlab.com/ee/development/documentation/styleguide.html
-[google]: https://developers.google.com/style/
-[microsoft]: https://docs.microsoft.com/en-us/style-guide/welcome/
-[sig-docs]: https://kubernetes.io/docs/contribute/style/style-guide/
+This style guide is heavily influenced by the great work from the content management teams from [Kubernetes](https://kubernetes.io/docs/contribute/style/style-guide/). Without their previous efforts this guide would not be nearly as concise as it should.
