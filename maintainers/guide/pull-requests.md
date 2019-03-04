@@ -60,16 +60,16 @@ In your code, if someone might not understand why you did something (or you won'
 
 Likewise, make sure to use PR comments appropriately to detail information needed for review and approval.
 
-## 3. Test
+### 3. Test
 
 Nothing is more frustrating than starting a review, only to find that the tests are inadequate or absent. Very few pull requests can touch code and NOT touch tests.
 
 If you don't know how to test Feature-X, please ask!  We'll be happy to help you design things for easy testing or to suggest appropriate test cases.
 
-## 4. It's OK to Push Back
+### 4. It's OK to Push Back
 
 It's ok to reject a PR; however, if you do so then ensure to leave appropriate comments. The submitter should be given clear guidelines as to what changes need to be made so that the PR will be accepted next time. 
 
-## 5. Common Sense and Courtesy
+### 5. Common Sense and Courtesy
 
 No document can take the place of common sense and good taste. Don't be a jerk.
