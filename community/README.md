@@ -13,7 +13,7 @@ The Build community abides by the [Contributor Convenant](https://github.com/rub
 
 * [Twitter](https://twitter.com/RoxieAtRubrik)
 * [Blog](https://www.rubrik.com/blog/tag/build/)
-* [YouTube]()
+* [YouTube](https://www.youtube.com/playlist?list=PLHHKVC-uQ3XjVGDMsIg_iEoYAIb2tx7uC)
 
 ## Mailing Lists
 
@@ -22,7 +22,7 @@ The Build community abides by the [Contributor Convenant](https://github.com/rub
 
 ## Issues
 
-If you think you found a bug or would like to request an enhancement, please [file an issue].
+If you think you found a bug or would like to request an enhancement, please [file an issue](https://github.com/rubrikinc/welcome-to-rubrik-build/issues).
 
 ## Office Hours
 
