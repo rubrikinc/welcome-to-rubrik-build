@@ -1,3 +1,5 @@
+# Using Labels
+
 Labels are a highly useful feature of GitHub that allows for metadata to be appended to projects, issues, pull requests, and so forth. Rubrik Build makes heavy use of labels in order to drive automated tasks and express intent.
 
 Labels will be structured in the following manner:
