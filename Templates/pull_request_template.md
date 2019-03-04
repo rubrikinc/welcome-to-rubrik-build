@@ -34,5 +34,3 @@ Go over all the following points, and put an `x` in all the boxes that apply. If
 - [ ] I have updated the documentation accordingly.
 - [ ] I have read the **[CONTRIBUTION](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/CONTRIBUTING.md)** document.
 - [ ] I have updated the CHANGELOG file accordingly for the version that this merge modifies.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
