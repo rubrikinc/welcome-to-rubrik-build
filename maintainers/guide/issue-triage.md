@@ -17,7 +17,7 @@ Most people can leave comments and open issues. They don't have the ability to s
 
 ## Support Requests
 
-Sometimes users ask for support requests in issues; these are usually requests from people who need help configuring some aspect of Kubernetes. These issues should be labeled with `support` and directed to appropriate support personnel. Keep in mind
+Sometimes users ask for support requests in issues; these are usually requests from people who need help configuring some aspect of Rubrik Build. These issues should be labeled with `support` and directed to appropriate support personnel. Keep in mind
 
 Support requests should be directed to the following:
 

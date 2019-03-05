@@ -36,5 +36,5 @@ These are roles that either span the project as a whole, or span several areas o
 - Event management
   - Helping run Contributor Summits
   - Co-organizing Meetups
-  - Staffing Kubernetes booths at conferences
+  - Staffing Rubrik Build booths at conferences
 - Github management (Tags, repos, etc)
