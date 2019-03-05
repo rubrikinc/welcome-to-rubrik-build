@@ -1,24 +1,21 @@
 # Description
 
-Please describe your pull request in detail.
+<!-- Please describe your pull request in detail.-->
 
 ## Related Issue
 
-This project only accepts pull requests related to open issues.
+<!-- Please link to the issue here-->
 
-* If suggesting a new feature or change, please discuss it in an issue first.
-* If fixing a bug, there should be an issue describing it with steps to reproduce
-
-_Please link to the issue here_
+<!-- If no issue exsits for your pull request, please use a draft pull requests for discussion purposes-->
 
 ## Motivation and Context
 
-Why is this change required? What problem does it solve?
+<!-- Why is this change required? What problem does it solve? -->
 
 ## How Has This Been Tested?
 
-* Please describe in detail how you tested your changes.
-* Include details of your testing environment, and the tests you ran to see how your change affects other areas of the code, etc.
+<!-- * Please describe in detail how you tested your changes.
+* Include details of your testing environment, and the tests you ran to see how your change affects other areas of the code, etc.-->
 
 ## Screenshots (if appropriate):
 
@@ -32,10 +29,8 @@ What types of changes does your code introduce? Put an `x` in all the boxes that
 ## Checklist:
 
 Go over all the following points, and put an `x` in all the boxes that apply. If you're unsure about any of these, don't hesitate to ask. We're here to help!
-- [ ] My code follows the code style of this project.
+
 - [ ] My change requires a change to the documentation.
 - [ ] I have updated the documentation accordingly.
-- [ ] I have read the **[CONTRIBUTION](http://rubrikinc.github.io/PowerShell-Module/documentation/contribution.html)** document.
+- [ ] I have read the **[CONTRIBUTION](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/CONTRIBUTING.md)** document.
 - [ ] I have updated the CHANGELOG file accordingly for the version that this merge modifies.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
