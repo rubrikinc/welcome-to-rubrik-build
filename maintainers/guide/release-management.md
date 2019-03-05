@@ -50,7 +50,7 @@ Return to 'Normal Dev' phase requirements:
 <li>/approved</li>
 </ul>
 
-Merges into the 1.y branch are now [via cherrypicks](https://github.com/kubernetes/community/blob/master/contributors/devel/cherry-picks.md), approved by release branch manager.
+Merges into the 1.y branch are now via cherrypicks, approved by release branch manager.
 </td>
 <td>
 <ul>

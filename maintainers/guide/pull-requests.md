@@ -4,7 +4,7 @@ This doc explains the process and best practices for managing a pull request to 
 
 ## Before You Submit a Pull Request
 
-This guide is for contributors who already have a pull request to submit. If you're looking for information on setting up your developer environment and creating code to contribute to Kubernetes, see the [development guide](/contributors/devel/development.md).
+This guide is for contributors who already have a pull request to submit. If you're looking for information on setting up your developer environment and creating code to contribute to Rubrik Build, see the [development guide](/contributors/devel/development.md).
 
 First time contributors should head to the [Contributor Guide](/contributors/guide/README.md) to get started.
 
