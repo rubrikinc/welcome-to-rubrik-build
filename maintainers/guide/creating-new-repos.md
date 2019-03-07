@@ -46,14 +46,14 @@ The provided Rubrik team name will determine who is added as the repos `CODEOWNE
   * `CONTRIBUTING.md`
   * `.github/CODEOWNERS`
   * `.github/pull_request_template.md`
-  * `.github/ISSUE_TEMPLATE\bug-report.md`
-  * `.github/ISSUE_TEMPLATE\`
+  * `.github/ISSUE_TEMPLATE/bug-report.md`
+  * `.github/ISSUE_TEMPLATE/`
   * `.github/enhancement_request.md`
 * Labels
 
 ## Adding a new user to the `rubrikinc` GitHub organization
 
-### Slack Dialog Variables
+**Slack Dialog Variables**
 
 | Variable        | Required | Notes                                                                                                              |
 |-----------------|----------|--------------------------------------------------------------------------------------------------------------------|
@@ -71,13 +71,16 @@ Once the new user dialog has been submitted, a direct message will be sent to th
 * The new users GitHub avatar
 * Wheter or not a new GitHub user seat will need to be purchased
 
-### Response after `rubrikinc` owner reviews request
-
-### Approved
+#### Approved
 
 A direct message will be sent to the provided `Slack Username` informing them that they have been added to the `rubrikinc` organization along with the team they have been added to if applicable. If the request was not submitted by the new user, a similar message will be sent to the requester.
 
 We will also update an internal database with the users information which may be useful for additional automation workflows.
+
+#### Not approved
+
+A direct message will be sent to the provided `Slack Username` letting them know their request has not be approved and that they should reach out to the Rubil Build owner team for additional information.
+
 
 ## Adding Permissions
 
