@@ -2,6 +2,10 @@
 
 This doc explains the process and best practices for managing a pull request to a project. It should serve as a reference for all maintainers, and be useful especially to new and infrequent contributors.
 
+The following graphic provides an overview of the PR process: 
+
+![Pull Request Overview](/img/pr-process.png)
+
 ## Before You Submit a Pull Request
 
 This guide is for contributors who already have a pull request to submit. If you're looking for information on setting up your developer environment and creating code to contribute to Rubrik Build, see the [development guide](/contributors/devel/development.md).
@@ -23,7 +27,7 @@ things you can do to move the process along:
 
    * Ping the assignee by email (many of us have publicly available email addresses).
 
-   * If you're a member of the organization ping the [team](https://github.com/orgs/rubrikinc/teams) (via @team-name) that works in the area you're submitting code.
+   * If you're a member of the organization ping the [team](https://github.com/orgs/rubrikinc/teams) (via @team-name) that works in the area you're submitting code. Typically, this will be the [Build team](https://github.com/orgs/rubrikinc/teams/build).
 
 ## Closing Pull Requests
 
