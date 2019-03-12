@@ -1,5 +1,3 @@
-# Build GitHub Automation
-
 ## Creating a new repository
 
 Using the `/build-repo` Slack Slash Command, the user will start the new repo creation process. The first step in this process involves checking the users `Slack ID` against an internal database to validate they have the correct permissions to create a new repo. Once that has been validated they will receive a new dialog window with the following information:

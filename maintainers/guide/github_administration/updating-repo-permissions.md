@@ -1,5 +1,3 @@
-# Build GitHub Automation
-
 ## Adding Permissions
 
 All permissions in `rubrikinc` are controlled via Teams. At a minimum, each repo will have an associated team that matches the name of the reposiotry. We also have teams in place that can span multiple repos.
