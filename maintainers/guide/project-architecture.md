@@ -1,22 +1,27 @@
-|-IN PROGRESS-|
+| IN PROGRESS |
+| --- |
+
+The look and feel of each published project is important. Consistency is key. All existing and new projects should contain several mandatory items, such as a Code of Conduct, templates for GitHub flow, MIT licensing, and guidelines for contributing. 
+
+This page is intended to provide all information required to begin a new project. 
 
 ## Basics
 
-* License: MIT
-* Code of Conduct: Contributors Covenant
-* README:
-* Use templates: Pull Request, Enhancement Request, Bug Request
-* /docs folder: quickstart guide
-* /docs/img folder: location for all images used in documentation
-* Release Notes: [here](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/maintainers/guide/release-notes.md)
+All new and existing projects must contain the following: 
+
+* README
 
 
-|TBD|
-|-|
-
-All new projects must contain the following: 
-
-* `.github` folder containing [Bug Report](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/Templates/bug-report.md), [Enhancement Request](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/Templates/enhancement_request.md), and [Pull Request](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/Templates/pull_request_template.md) templates
+* [Code of Conduct]()
 * [MIT licensing](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/LICENSE)
-* [Contributing](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/CONTRIBUTING.md) Guidelines file
+* [Contributing  Guidelines](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/CONTRIBUTING.md)
+* `.github` folder containing the following templates:
+
+    * [Bug Report](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/Templates/bug-report.md) 
+    * [Enhancement Request](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/Templates/enhancement_request.md)
+    * [Pull Request](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/Templates/pull_request_template.md)
+
+* [Release Notes](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/maintainers/guide/release-notes.md)
+
+## README
 
