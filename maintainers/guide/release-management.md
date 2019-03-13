@@ -1,10 +1,9 @@
-|---
-IN PROGRESS
----|
+| IN PROGRESS |
+| --- |
 
 # Release Cycle Management
 
-If you want your PR to get merged, it needs the following required labels and milestones, represented here by the Prow /commands it would take to add them:
+If you want your PR to get merged, it needs the following required labels and milestones:
 <table>
 <tr>
 <td></td>
