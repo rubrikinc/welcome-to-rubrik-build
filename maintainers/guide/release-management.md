@@ -3,61 +3,9 @@
 
 # Release Cycle Management
 
-If you want your PR to get merged, it needs the following required labels and milestones:
-<table>
-<tr>
-<td></td>
-<td>Normal Dev</td>
-<td>Code Freeze and Review</td>
-<td>Release</td>
-</tr>
-<tr>
-<td></td>
-<td>Weeks 1-8</td>
-<td>Weeks 9-11</td>
-<td>Weeks 11+</td>
-</tr>
-<tr>
-<td>Required Labels</td>
-<td>
-<ul>
-<!--Weeks 1-8-->
-<li>/sig {name}</li>
-<li>/kind {type}</li>
-<li>/lgtm</li>
-<li>/approved</li>
-</ul>
-</td>
-<td>
-<ul>
-<!--Weeks 9-11-->
-<li>/milestone {v1.y}</li>
-<li>/sig {name}</li>
-<li>/kind {bug, failing-test}</li>
-<li>/priority critical-urgent</li>
-<li>/lgtm</li>
-<li>/approved</li>
-</ul>
-</td>
-<td>
-<!--Weeks 11+-->
-Return to 'Normal Dev' phase requirements:
-<ul>
-<li>/sig {name}</li>
-<li>/kind {type}</li>
-<li>/lgtm</li>
-<li>/approved</li>
-</ul>
+If you want your PR to get merged, it should meet the following required labels and milestones:
 
-Merges into the 1.y branch are now via cherrypicks, approved by release branch manager.
-</td>
-<td>
-<ul>
-</td>
-</tr>
-</table>
-
-The general labeling process should be consistent across artifact types.
+![Release Overview](/img/release-cycle.png)
 
 ---
 
@@ -69,3 +17,8 @@ Rubrik Build releases currently happen bi-weekly.  The release process can be th
 * Code Review
 * Release 
 
+![Release Schedule](/img/release-schedule.png)
+
+## Exceptions
+
+In the event of breakage or emergency bug fixes, the schedule may be altered to accomodate an immediate fix. That being said, all due diligence should still be met in regard to thorough code reviews and documentation updates. 
