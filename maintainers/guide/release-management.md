@@ -5,7 +5,7 @@
 
 If you want your PR to get merged, it should meet the following required labels and milestones:
 
-![Release Overview](/img/release-cycle.png)
+![Release Overview](/maintainers/guide/img/release-cycle.png)
 
 ---
 
@@ -17,7 +17,7 @@ Rubrik Build releases currently happen bi-weekly.  The release process can be th
 * Code Review
 * Release 
 
-![Release Schedule](/img/release-schedule.png)
+![Release Schedule](/maintainers/guide/img/release-schedule.png)
 
 ## Exceptions
 
