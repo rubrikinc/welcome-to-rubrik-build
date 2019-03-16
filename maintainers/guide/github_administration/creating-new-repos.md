@@ -1,5 +1,3 @@
-# Build GitHub Automation
-
 ## Creating a new repository
 
 Using the `/build-repo` Slack Slash Command, the user will start the new repo creation process. The first step in this process involves checking the users `Slack ID` against an internal database to validate they have the correct permissions to create a new repo. Once that has been validated they will receive a new dialog window with the following information:
@@ -80,31 +78,3 @@ We will also update an internal database with the users information which may be
 #### Not approved
 
 A direct message will be sent to the provided `Slack Username` letting them know their request has not be approved and that they should reach out to the Rubil Build owner team for additional information.
-
-
-## Adding Permissions
-
-All permissions in `rubrikinc` are controlled via Teams. At a minimum, each repo will have an associated team that matches the name of the reposiotry. We also have teams in place that can span multiple repos.
-
-**Slack Dialog**
-
-| Variable    | Required | Notes                                                                             |
-|-------------|----------|-----------------------------------------------------------------------------------|
-| Team        | True     | Dynamically populated list                                                        |
-| Slack Users | True     | Dynamically populated list -- will be associated with GitHub username in Database |
-
-### Approval
-
-Once the new permission dialog been submitted, a direct message will be sent to the Teams maintainer requesting approval. This message will include the following information:
-
-* Submitter Name
-* Users Slack name
-* Users GitHub username
-* Users GitHub avatar
-* Team Name
-
-If the original submitter is the Teams maintainer this step will be skipped.
-
-### Response after approval
-
-A message will be sent to the specific Rubrik User and the Team Maintainer letting them no approval has beeng granted.
