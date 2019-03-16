@@ -1,6 +1,3 @@
-| IN PROGRESS |
-| --- |
-
 # Release Cycle Management
 
 If you want your PR to get merged, it should meet the following required labels and milestones:
