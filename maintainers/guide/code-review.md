@@ -16,23 +16,19 @@ Maintainers can assign reviews to other maintainers, when appropriate. The assig
 
 ## The Code Review Process
 
-The **author** submits a PR:
-
+- The **author** submits a PR
 - Phase 0: Select **reviewers** and **approvers** for the PR
   - Choose at least two suggested **reviewers** and request their reviews on the PR
   - Choose suggested **approvers**, based on project maintainers, and list them in a comment on the PR
-
 - Phase 1: Humans review the PR
   - **Reviewers** look for general code quality, correctness, sane software engineering, style, etc.
   - Anyone in the organization can act as a **reviewer** with the _exception_ of the individual who opened the PR
-  - If the code changes look good to them, a **reviewer** types :shipit: in a PR comment or review if they change their mind.
-  - Once a **reviewer** has :shipit:, apply an `status/4-merge` label to the PR
-
+  - If the code changes look good to them, a **reviewer** types :shipit:, `ship it` in a PR comment. If changes are needed, be precise and give detail as to what needs to be changed for approval. 
+  - Once a **reviewer** has approved, apply an `status/4-merge` label to the PR
 - Phase 2: Humans approve the PR
-  - The PR **author** `/assign`'s all suggested **approvers** to the PR, and optionally notifies them
+  - The PR **author** assigns all suggested **approvers** to the PR, and optionally notifies them
   - Only people listed as owners or maintainers can act as **approvers**, including the individual who opened the PR.
   - **Approvers** look for holistic acceptance criteria, including dependencies with other features, forwards/backwards compatibility, API and flag definitions, etc
-  - If the code changes look good to them, an **approver** types `approve` in a PR comment or review; if they change their mind, they `/approve cancel` and updates its comment in the PR to indicate which **approvers** still need to approve
-  
+  - If the code changes look good to them, an **approver** types `approved` in a PR comment or review. If changes are needed, be precise and give detail as to what needs to be changed for approval. 
 - Phase 3: Merge the PR:
   - Then the PR can be merged by a project maintainer and any associated branches deleted
