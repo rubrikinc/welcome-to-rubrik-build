@@ -23,7 +23,7 @@ Maintainers can assign reviews to other maintainers, when appropriate. The assig
 - Phase 1: Humans review the PR
   - **Reviewers** look for general code quality, correctness, sane software engineering, style, etc.
   - Anyone in the organization can act as a **reviewer** with the _exception_ of the individual who opened the PR
-  - If the code changes look good to them, a **reviewer** types :shipit:, `ship it` in a PR comment. If changes are needed, be precise and give detail as to what needs to be changed for approval. 
+  - If the code changes look good to them, a **reviewer** types :shipit: or `ship it` in a PR comment. If changes are needed, be precise and give detail as to what needs to be changed for approval. 
   - Once a **reviewer** has approved, apply an `status/4-merge` label to the PR
 - Phase 2: Humans approve the PR
   - The PR **author** assigns all suggested **approvers** to the PR, and optionally notifies them
