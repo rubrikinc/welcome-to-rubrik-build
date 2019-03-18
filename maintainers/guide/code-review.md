@@ -30,5 +30,5 @@ Maintainers can assign reviews to other maintainers, when appropriate. The assig
   - Only people listed as owners or maintainers can act as **approvers**, including the individual who opened the PR.
   - **Approvers** look for holistic acceptance criteria, including dependencies with other features, forwards/backwards compatibility, API and flag definitions, etc
   - If the code changes look good to them, an **approver** types `approved` in a PR comment or review. If changes are needed, be precise and give detail as to what needs to be changed for approval. 
-- Phase 3: Merge the PR:
+- Phase 3: Merge the PR
   - Then the PR can be merged by a project maintainer and any associated branches deleted
