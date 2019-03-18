@@ -32,7 +32,7 @@ Items marked with the `help wanted` label need to ensure that they are:
 
 Items marked with the `good first issue` label are intended for _first-time contributors_. It indicates that members will keep an eye out for these pull requests and shepherd it through our processes.
 
-**New contributors should not be left to find an approver, ping for reviews, decipher prow commands, or identify that their build failed due to an issue.**
+**New contributors should not be left to find an approver, ping for reviews, or identify that their build failed due to an issue.**
 
 This makes new contributors feel welcome, valued, and assures them that they will have an extra level of help with their first contribution.
 
@@ -63,11 +63,6 @@ These items need to ensure that they follow the guidelines for `help wanted` lab
 - **Ready to Test**
 
   There should be existing tests that can be modified, or existing test cases fit to be copied. If the area of code doesn't have tests, before labeling the issue, add a test fixture. This prep often makes a great `help wanted` task!
-
-Related commands:
-
-- `/good-first-issue` : Adds the `good first issue` label to an issue. Also adds the `help wanted` label, if not already present.
-- `/remove-good-first-issue` : Removes the `good first issue` label from an issue.
 
 # Suggestions
 
