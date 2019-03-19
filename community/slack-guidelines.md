@@ -8,7 +8,7 @@ Rubrik Build adheres to the [Code of Conduct](/Code-of-Conduct.md) throughout al
 
 ## Admins
 
-- Check the [centralized list of administrators][/community/moderators.md] for contact information.
+- Check the [centralized list of administrators](/community/moderators.md) for contact information.
 
 Slack Admins will have listed that they are a Slack admin in their Slack profile, along with their specific timezone.
 
