@@ -2,23 +2,24 @@
 
 Welcome to Rubrik Build! This area will provide information will provide information about how to engage with community members. 
 
-The Build community abides by the [Contributor Convenant](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/Code-of-Conduct.md).  Here is an excerpt:
+The Build community abides by the [Contributor Convenant](/Code-of-Conduct.md).  Here is an excerpt:
 
 > _In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone_
 
-* [Community Membership](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/community/community-membership.md)
-* [Community Moderators](https://github.com/rubrikinc/welcome-to-rubrik-build/blob/master/community/moderators.md)
+* [Community Membership](/community/community-membership.md)
+* [Community Moderators](/community/moderators.md)
 
 ## Social Media
 
-* [Twitter](https://twitter.com/RoxieAtRubrik)
+* [Twitter](https://twitter.com/RubrikBuild)
 * [Blog](https://www.rubrik.com/blog/tag/build/)
 * [YouTube](https://www.youtube.com/playlist?list=PLHHKVC-uQ3XjVGDMsIg_iEoYAIb2tx7uC)
 
-## Mailing Lists
+## Slack
 
-|TBD|
-|-|
+To request an invite to the Slack team, please email build@rubrik.com from the email address to which you would like the request sent. 
+
+Sign up and join channels on topics that interest you, but please read our [Slack Guidelines](/community/slack-guidelines.md) before participating.
 
 ## Issues
 
@@ -32,4 +33,3 @@ If you think you found a bug or would like to request an enhancement, please [fi
 ## Conferences
 
 Build community admins and members are often at conferences. Information about events can be found on the Rubrik Build [homepage](https://build.rubrik.com/).
-
