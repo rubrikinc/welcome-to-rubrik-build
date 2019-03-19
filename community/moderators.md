@@ -1,5 +1,5 @@
 # Community Moderators
-The following people are responsible for moderating/administrating the Rubrik Build communication channels and their home time zone. See our moderation guidelines for policies and recommendations.
+The following people are responsible for moderating/administrating the Rubrik Build communication channels and their home time zone. See our [moderation guidelines](/community/moderation.md) for policies and recommendations.
 
 ## Administrators
 
