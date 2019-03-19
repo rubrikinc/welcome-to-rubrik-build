@@ -31,5 +31,5 @@ If you think you found a bug or would like to request an enhancement, please [fi
 
 ## Conferences
 
-Build community admins and members are often at conference. Information about events can be found on the Rubrik Build [homepage](https://build.rubrik.com/).
+Build community admins and members are often at conferences. Information about events can be found on the Rubrik Build [homepage](https://build.rubrik.com/).
 
