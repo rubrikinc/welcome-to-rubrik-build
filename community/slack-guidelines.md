@@ -29,11 +29,11 @@ Please do not engage in proprietary company specific conversations in the Rubrik
 
 ### Escalating and/or Reporting a Problem
 
-Contact one of the admins in the [closest timezone][admins] via DM directly and describe the situation. If the issue can be documented, please take a screenshot to include in your message.
+Contact one of the admins in the closest timezone via DM directly and describe the situation. If the issue can be documented, please take a screenshot to include in your message.
 
 **What if you have a problem with an admin?**
 
-Send a DM to another [listed admin][/community/moderators.md] and describe the situation. If it’s a [code of conduct][/Code-of-Conduct.md] issue, please send an email to <build@rubrik.com> and describe the situation.
+Send a DM to another [listed admin](/community/moderators.md) and describe the situation. If it’s a [code of conduct](/Code-of-Conduct.md) issue, please send an email to <build@rubrik.com> and describe the situation.
 
 ---
 
@@ -41,7 +41,7 @@ Send a DM to another [listed admin][/community/moderators.md] and describe the s
 
 ### Admin Expectations and Guidelines
 
-Admins should adhere to the general [moderation guidelines](/community/moderation.md.
+Admins should adhere to the general [moderation guidelines](/community/moderation.md).
 
 Content will be removed if it violates code of conduct or is a sales pitch. Admins will take a screenshot of such behavior in order to document the situation. The community takes such violations extremely seriously, and the admins are empowered to handle it swiftly.
 
