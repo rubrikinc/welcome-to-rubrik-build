@@ -4,7 +4,7 @@ Slack serves as the main communication platform for the Rubrik Build community. 
 
 ## Code of Conduct
 
-Rubrik Build adheres to the [Code of Conduct][/Code-of-Conduct.md] throughout all projects, and includes all communication mediums.
+Rubrik Build adheres to the [Code of Conduct](/Code-of-Conduct.md) throughout all projects, and includes all communication mediums.
 
 ## Admins
 
