@@ -10,7 +10,7 @@ Items marked with the `help wanted` label need to ensure that they are:
 
 - **Low Barrier to Entry**
 
-  It should be tractable for new contributors. Documentation on how that type of change should be made should already exist.
+  It should be manageable for new contributors. Documentation on how that type of change should be made should already exist.
 
 - **Clear Task**
 
@@ -18,7 +18,7 @@ Items marked with the `help wanted` label need to ensure that they are:
 
   API / CLI behavior is decided and included in the OP issue, for example: _"The new command syntax is `svcat unbind NAME [--orphan] [--timeout 5m]`"_, with expected validations called out.
 
-- **Goldilocks priority**
+- **Goldilocks Principle**
 
   Not too high that a core contributor should do it, but not too low that it isn't useful enough for a core contributor to spend time to review it, answer questions, help get it into a release, etc.
 
@@ -26,17 +26,13 @@ Items marked with the `help wanted` label need to ensure that they are:
 
   Often these issues become obsolete and have already been done, are no longer desired, no longer make sense, have changed priority or difficulty , etc.
 
-Related commands:
-
-- `/help` : Adds the `help wanted` label to an issue.
-- `/remove-help` : Removes the `help wanted` label from an issue. If the
-  `good first issue` label is present, it is removed as well.
+  Make sure that you keep comments and labels up to date and never stale. 
 
 ## Good First Issue
 
 Items marked with the `good first issue` label are intended for _first-time contributors_. It indicates that members will keep an eye out for these pull requests and shepherd it through our processes.
 
-**New contributors should not be left to find an approver, ping for reviews, decipher prow commands, or identify that their build failed due to an issue.**
+**New contributors should not be left to find an approver, ping for reviews, or identify that their build failed due to an issue.**
 
 This makes new contributors feel welcome, valued, and assures them that they will have an extra level of help with their first contribution.
 
@@ -68,28 +64,23 @@ These items need to ensure that they follow the guidelines for `help wanted` lab
 
   There should be existing tests that can be modified, or existing test cases fit to be copied. If the area of code doesn't have tests, before labeling the issue, add a test fixture. This prep often makes a great `help wanted` task!
 
-Related commands:
-
-- `/good-first-issue` : Adds the `good first issue` label to an issue. Also adds the `help wanted` label, if not already present.
-- `/remove-good-first-issue` : Removes the `good first issue` label from an issue.
-
 # Suggestions
 
-We encourage our more experienced members to help new contributors, so that the Rubrik Build community can continue to grow and maintain the kind, inclusive community that we all enjoy today.
+We encourage our more experienced members, such as maintainers, to help new contributors, so that the Rubrik Build community can continue to grow and maintain the kind, inclusive community that we all enjoy today.
 
 The following suggestions go a long way toward preventing "drive-by" PRs, and ensure that our investment in new contributors is rewarded by them coming back and becoming regulars.
 
 Provide extra assistance during reviews on `good first issue` pull requests:
+
 - Answer questions and identify useful docs.
 - Offer advice
 - Help new contributors learn enough about the project, setting up their environment, running tests, and navigating this area of the code so that they can tackle a related `help wanted` issue next time.
 
-If you make someone feel like a part of our community, that it's safe to ask
-questions, that people will let them know the rules/norms, that their
-contributions are helpful and appreciated... they will stick around! 🌈
+If you make someone feel like a part of our community, make it safe to ask questions, let everyone know the rules/norms, that contributions are helpful and appreciated...community members they will stick around! 🌈
+
 - Encourage new contributors to seek help on the appropriate slack channels, introduce them, and include them in your conversations.
 - Give credit to new contributors so that others get to know them, thank them on Twitter
-- Use all the emoji in your approve comment. 💖 🚀
+- Use _all_ the emoji in your approve comment. 💖 🚀
 - Let them know that their `good first issue` is getting extra attention to make the first one easier and help them find a follow-up issue.
 - Suggest a related `help wanted` so that can build up experience in an area.
 - People are more likely to continue contributing when they know what to expect, what's the acceptable way to ask for people to review a PR, nudge things along when a PR is stalled. Show them how we operate by helping move their first PR along.
