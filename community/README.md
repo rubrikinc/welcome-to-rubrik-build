@@ -17,7 +17,7 @@ The Build community abides by the [Contributor Convenant](/Code-of-Conduct.md). 
 
 ## Slack
 
-To request an invite to the Slack team, please email build@rubrik.com from the email address to which you would like the request sent. 
+To request an invite to the Slack team, click [here](http://bit.ly/build-slack). Enter the email address to which you would like the request sent. The invite token is `build`.
 
 Sign up and join channels on topics that interest you, but please read our [Slack Guidelines](/community/slack-guidelines.md) before participating.
 
