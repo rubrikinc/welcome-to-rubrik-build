@@ -2,7 +2,7 @@
 
 Welcome to Rubrik Build! This area will provide information will provide information about how to engage with community members.
 
-The Build community abides by the [Contributor Convenant](/Code-of-Conduct.md).  Here is an excerpt:
+The Build community abides by the [Contributor Covenant](/Code-of-Conduct.md).  Here is an excerpt:
 
 > _In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone_
 
