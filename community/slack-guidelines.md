@@ -20,8 +20,7 @@ To connect: please reach out in the `#slack-admins` channel, mention an admin di
 
 ### Workspace Channel History
 
-The Rubrik Build workspace does not currently archive chat. 
-
+The Rubrik Build workspace does not currently archive chat.
 
 ### DM (Direct Message) Conversations
 

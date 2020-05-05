@@ -19,5 +19,4 @@ Each function should meet the following requirements:
 * Each API call made in the function should have a log call made explaining what the API call is doing. The log message should be formated as `function_name: message`.
 * Each function also must have associated documentation.
 
-
 Once a new function has been added you will then submit a new Pull Request which will be reviewed before merging into the `devel` branch.
