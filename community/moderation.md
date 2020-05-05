@@ -11,7 +11,7 @@ As part of volunteering to become a moderator you are now a representative of th
 Moderators _MUST_:
 
 - Take action as specified by these Moderator Guidelines.
-  - You are empowered to take _immediate action_ when there is a violation. You do not need to wait for review or approval if an egregious violation has occurred. Make a judgement call based on our [Code of Conduct](/Code-of-Conduct.md). 
+  - You are empowered to take _immediate action_ when there is a violation. You do not need to wait for review or approval if an egregious violation has occurred. Make a judgement call based on our [Code of Conduct](/Code-of-Conduct.md).
   - Removing a bad actor or content from the medium is required, do NOT let it sit there.
 - Abide by the documented tasks and actions required of moderators.
 - Ensure that the [Code of Conduct](/Code-of-Conduct.md) is in effect on all official communication channels.

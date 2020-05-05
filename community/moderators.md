@@ -18,7 +18,6 @@ The following people are responsible for moderating/administrating the Rubrik Bu
 * [GitHub](https://github.com/rfitzhugh)
 * [Twitter](https://twitter.com/RebeccaFitzhugh)
 
-
 ## Moderators
 
 **Jaap Brasser**

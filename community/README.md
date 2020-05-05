@@ -1,6 +1,6 @@
 # Rubrik Build Community
 
-Welcome to Rubrik Build! This area will provide information will provide information about how to engage with community members. 
+Welcome to Rubrik Build! This area will provide information will provide information about how to engage with community members.
 
 The Build community abides by the [Contributor Convenant](/Code-of-Conduct.md).  Here is an excerpt:
 
@@ -17,7 +17,7 @@ The Build community abides by the [Contributor Convenant](/Code-of-Conduct.md). 
 
 ## Slack
 
-To request an invite to the Slack team, please email build@rubrik.com from the email address to which you would like the request sent. 
+To request an invite to the Slack team, please email build@rubrik.com from the email address to which you would like the request sent.
 
 Sign up and join channels on topics that interest you, but please read our [Slack Guidelines](/community/slack-guidelines.md) before participating.
 

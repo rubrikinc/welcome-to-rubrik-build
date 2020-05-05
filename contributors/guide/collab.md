@@ -2,7 +2,7 @@
 
 ## Code Reviews
 
-All changes must be code reviewed. For non-maintainers this is obvious, since you can't commit anyway. But even for maintainers, all code changes should receive at least one review, preferably (for non-trivial changes obligatorily) from someone who knows the areas the change touches. 
+All changes must be code reviewed. For non-maintainers this is obvious, since you can't commit anyway. But even for maintainers, all code changes should receive at least one review, preferably (for non-trivial changes obligatorily) from someone who knows the areas the change touches.
 
 For non-trivial changes, multiple reviewers may be assigned. The primary reviewer will make this decision and nominate a second reviewer, if needed. If a maintainer intends to be the primary reviewer of a PR they should set themselves as the assignee on GitHub, then reply to the PR and specify so. However, only the primary reviewer of a change should conduct the merge, except in rare cases.
 

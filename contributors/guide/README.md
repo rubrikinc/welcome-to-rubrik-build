@@ -1,6 +1,6 @@
 # Contributor Guide for Build
 
-This section will outline resources available for contributors. 
+This section will outline resources available for contributors.
 
 ## Operating Procedures
 
