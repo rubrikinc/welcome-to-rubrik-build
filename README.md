@@ -1,7 +1,7 @@
 # Welcome to the Rubrik Build Community
 Welcome to Rubrik Build! This is the starting point for joining and contributing to the Build community - improving docs, improving code, giving talks etc.
 
-![alt text](/img/Rubrik-Build-Logo/Build.png)
+![alt text](assets/rubrik-build-logo/Build.png)
 
 To learn more about the project structure and organization, please refer to Project Governance information.
 
